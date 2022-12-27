@@ -1,12 +1,12 @@
 {
-  "Juice" : [
-   {
+  "Juice": [
+    {
       "Brand": "Moy semya",
       "taste": "Multifrukt",
       "grade": 4
     },
     {
-      "Brand": "lubimiy",
+      "Brand": "Lubimiy",
       "taste": "Multifrukt",
       "grade": 4
     },
@@ -15,108 +15,140 @@
       "taste": "Multifrukt",
       "grade": 4
     },
-     {
+    {
       "Brand": "Santal",
-      "taste": "apple",
+      "taste": "Apple",
       "grade": 5
     },
     {
       "Brand": "Auchan",
-      "taste": "Vinograd",
+      "taste": "Grape",
       "grade": 5
     },
-   {
+    {
       "Brand": "Sadi pridoniya",
-      "taste": "apple",
+      "taste": "Apple",
       "grade": 5
     },
     {
       "Brand": "J7",
-      "taste": "apple",
+      "taste": "Apple",
       "grade": 4
     },
-     {
+    {
       "Brand": "Globus",
-      "taste": "Vinograd",
+      "taste": "Grape",
       "grade": 4
     },
     {
       "Brand": "Natur Pur",
-      "taste": "Vinograd",
+      "taste": "Grape",
       "grade": 4
     },
-     {
+    {
       "Brand": "Moy semya",
-      "taste": "Vinograd",
+      "taste": "Grape",
       "grade": 3
     },
-     {
-      "Brand": "lubimiy",
-      "taste": "apple",
+    {
+      "Brand": "Lubimiy",
+      "taste": "Apple",
       "grade": 4
     },
-   {
+    {
       "Brand": "Dobryi",
-      "taste": "apple",
+      "taste": "Apple",
       "grade": 4
     },
     {
       "Brand": "Santal",
-      "taste": "orange",
+      "taste": "Orange",
       "grade": 3
     },
-     {
+    {
       "Brand": "Auchan",
-      "taste": "tomate",
+      "taste": "Tomate",
       "grade": 2
     },
-     {
+    {
       "Brand": "Sadi pridoniya",
-      "taste": "Vinograd",
+      "taste": "Grape",
       "grade": 4
     },
-   {
+    {
       "Brand": "J7",
-      "taste": "orange",
+      "taste": "Orange",
       "grade": 3
     },
     {
       "Brand": "Globus",
-      "taste": "tomate",
+      "taste": "Tomate",
       "grade": 2
     },
-     {
+    {
       "Brand": "Natur Pur",
-      "taste": "apple",
+      "taste": "Apple",
       "grade": 4
     },
     {
       "Brand": "Moy semya",
-      "taste": "apple",
+      "taste": "Apple",
       "grade": 3
     },
     {
-      "Brand": "lubimiy",
-      "taste": "Vinograd",
+      "Brand": "Lubimiy",
+      "taste": "Grape",
       "grade": 5
     },
-   {
+    {
       "Brand": "Dobryi",
-      "taste": "tomate",
+      "taste": "Tomate",
       "grade": 2
     },
     {
       "Brand": "Santal",
-      "taste": "Vinograd",
+      "taste": "Grape",
       "grade": 3
     },
     {
       "Brand": "Auchan",
-      "taste": "orange",
+      "taste": "Orange",
       "grade": 4
     },
     {
       "Brand": "Sadi pridoniya",
-      "taste": "orange",
+      "taste": "Orange",
       "grade": 3
     },
+    {
+      "Brand": "Moy semya",
+      "taste": "Tomate",
+      "grade": 1
+    },
+    {
+      "Brand": "Lubimiy",
+      "taste": "Tomate",
+      "grade": 5
+    },
+    {
+      "Brand": "Sadi pridoniya",
+      "taste": "Tomate",
+      "grade": 3
+    },
+    {
+      "Brand": "Auchan",
+      "taste": "Apple",
+      "grade": 4
+    },
+    {
+      "Brand": "Santal",
+      "taste": "Tomate",
+      "grade": 3
+    },
+    {
+      "Brand": "J7",
+      "taste": "Grape",
+      "grade": 4
+    }
+  ]
+}
