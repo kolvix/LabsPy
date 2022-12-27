@@ -1,0 +1,122 @@
+{
+  "Juice" : [
+   {
+      "Brand": "Moy semya",
+      "taste": "Multifrukt",
+      "grade": 4
+    },
+    {
+      "Brand": "lubimiy",
+      "taste": "Multifrukt",
+      "grade": 4
+    },
+    {
+      "Brand": "Dobryi",
+      "taste": "Multifrukt",
+      "grade": 4
+    },
+     {
+      "Brand": "Santal",
+      "taste": "apple",
+      "grade": 5
+    },
+    {
+      "Brand": "Auchan",
+      "taste": "Vinograd",
+      "grade": 5
+    },
+   {
+      "Brand": "Sadi pridoniya",
+      "taste": "apple",
+      "grade": 5
+    },
+    {
+      "Brand": "J7",
+      "taste": "apple",
+      "grade": 4
+    },
+     {
+      "Brand": "Globus",
+      "taste": "Vinograd",
+      "grade": 4
+    },
+    {
+      "Brand": "Natur Pur",
+      "taste": "Vinograd",
+      "grade": 4
+    },
+     {
+      "Brand": "Moy semya",
+      "taste": "Vinograd",
+      "grade": 3
+    },
+     {
+      "Brand": "lubimiy",
+      "taste": "apple",
+      "grade": 4
+    },
+   {
+      "Brand": "Dobryi",
+      "taste": "apple",
+      "grade": 4
+    },
+    {
+      "Brand": "Santal",
+      "taste": "orange",
+      "grade": 3
+    },
+     {
+      "Brand": "Auchan",
+      "taste": "tomate",
+      "grade": 2
+    },
+     {
+      "Brand": "Sadi pridoniya",
+      "taste": "Vinograd",
+      "grade": 4
+    },
+   {
+      "Brand": "J7",
+      "taste": "orange",
+      "grade": 3
+    },
+    {
+      "Brand": "Globus",
+      "taste": "tomate",
+      "grade": 2
+    },
+     {
+      "Brand": "Natur Pur",
+      "taste": "apple",
+      "grade": 4
+    },
+    {
+      "Brand": "Moy semya",
+      "taste": "apple",
+      "grade": 3
+    },
+    {
+      "Brand": "lubimiy",
+      "taste": "Vinograd",
+      "grade": 5
+    },
+   {
+      "Brand": "Dobryi",
+      "taste": "tomate",
+      "grade": 2
+    },
+    {
+      "Brand": "Santal",
+      "taste": "Vinograd",
+      "grade": 3
+    },
+    {
+      "Brand": "Auchan",
+      "taste": "orange",
+      "grade": 4
+    },
+    {
+      "Brand": "Sadi pridoniya",
+      "taste": "orange",
+      "grade": 3
+    },
